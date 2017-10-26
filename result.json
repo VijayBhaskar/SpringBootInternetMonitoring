@@ -1,0 +1,21 @@
+[
+
+{
+  "requestno": 1234,
+  "link": "www.testwebsite1.com",
+  "result": "Pishing"
+},
+
+{
+  "requestno": 1234,
+  "link": "www.testwebsite3.com",
+  "result": "Clean"
+},
+
+{
+  "requestno": 1236,
+  "link": "www.testwebsite3.com",
+  "result": "Clean"
+}
+
+]
